@@ -215,7 +215,7 @@ public class Main extends Application {
 
 
         //setting epic image as background of window
-        Image kingKrieger = new Image("sample/krieger.png");
+        Image kingKrieger = new Image("Program3/krieger.png");
         ImageView iv = new ImageView(kingKrieger);
         //iv.setImage(kingKrieger);
         iv.setFitWidth(350);
