@@ -12,7 +12,8 @@ I definitely do have quality code. I made sure indenting was proper and I have a
 
 
 3. How to run your program
-Compile all java files then run Main.
+Place all files into a directory called "Program3"
+then compile all java files and run Main.
 
 
 
