@@ -29,6 +29,10 @@ public class Main extends Application {
     MyList wheelListCopy = new MyList();
     Random rand = new Random();
 
+    /**
+     * This is the start method. It holds all of the buttons, HBoxes, VBoxes, and the actual panel.
+     * @param primaryStage
+     */
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Wheel of Power");
@@ -226,6 +230,10 @@ public class Main extends Application {
         primaryStage.show();
     }
 
+    /**
+     * This is the main method that runs the the program
+     * @param args
+     */
     public static void main(String[] args) {
         launch(args);
     }
